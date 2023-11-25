@@ -1,0 +1,17 @@
+#tab-menu {
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+}
+
+#acting img {
+    height: 10em;
+}
+#modeling img {
+    height: 15em;
+}
+
+#pixel-art {
+    height: 3em;
+
+}
