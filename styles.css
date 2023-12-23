@@ -15,6 +15,13 @@
     height: 25em;
 }
 
+#personal {
+    width: 16em;
+    display: block;
+    margin: 0 auto;
+}
+
+
 
 #pixel-art {
     height: 3em;
