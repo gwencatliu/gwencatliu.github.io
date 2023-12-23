@@ -5,11 +5,16 @@
 }
 
 #acting img {
-    height: 10em;
+    height: 18em;
 }
 #modeling img {
-    height: 15em;
+    height: 20em;
 }
+
+#digital-art img {
+    height: 25em;
+}
+
 
 #pixel-art {
     height: 3em;
